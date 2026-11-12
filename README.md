@@ -1,6 +1,6 @@
-# 🧬 Microbiome Conferences 2026
+# 🧬 Microbiome Conferences 2027
 
-A list of microbiome-related conferences, symposia, and scientific meetings happening in **2026**.
+A list of microbiome-related conferences, symposia, and scientific meetings happening in **2027**.
 
 This repository is intended for:
 - researchers & clinicians
@@ -10,60 +10,26 @@ This repository is intended for:
 
 ---
 
-## January 2026
+## January 2027
 
-### 🧬 Keystone Symposia – Human Microbiome: From Models and Mechanism to Medicine
-📍 Banff, Canada  
-🗓 **19–22 January 2026**  
-🔬 Focus: host–microbe interactions, microbiome metabolism, translational research  
-🔗 [Link](https://www.keystonesymposia.org/conferences/conference-listing/meeting/j42026)
+### 🧬 Gut–X Axis Interactions Symposium
+📍 San Francisco, California, USA  | Virtual
+🗓 **14 January 2027**  
+🔬 Focus: host–microbiome interactions, health & disease,
+🔗 [Link](https://www.eventbrite.com/e/gutx-axis-interactions-symposium-tickets-2002575310662).
 
-
-### 🧬 Microbiome Movement Summit Europe 
-📍 London, UK  
-🗓️ **27–29 January 2026**  
-🔬 Focus: translating microbiome science into real products (strong industry + investor angle)  
-🔗 [Link](https://microbiome-europe.com/)
+## February 2027
 
 
-## February 2026
 
-### 🧬 BCMM Annual Symposium — Engineering Microbiomes
-📍 San Francisco, California, USA  
-🗓 **03 February 2026**  
-🔬 Focus: advances in microbe engineering  
-🔗 [Link](https://microbiome.ucsf.edu/events/bcmm-symposium)
-
-
-### 🧬 Pharmabiotics Conference 2026
-📍 Brussels, Belgium  
-🗓 **03–05 February 2026**  
-🔬 Focus: pharmabiotics, LBPs, microbiome-based drugs, regulation & clinical translation  
-🔗 [Link](https://infogut.eu/event/2026-pharmabiotics-conference/)
+### 🧬 Controlling Microbes to Fight Infections
+📍 University of Tübingen, Hörsaalzentrum 
+🗓 **17–19 February 2027**  
+🔬 Focus: host–microbiome interactions, health & disease, 
+🔗 [Link](https://cmfi2027.com/)
 
 
-### 🧬 XVII Congreso SEMiPyP 2026 — El microbioma humano: de la investigación a la clínica
-📍 Málaga, Spain  
-🗓 **4–6 February 2026**  
-🔬 Focus: human microbiome, probiotics & prebiotics — from research to clinical practice *(primarily Spanish-language event)*  
-🔗 [Link](https://semipyp.es/)
-
-
-### 🧬 IPA World Congress + Probiota 2026
-📍 Dublin, Ireland  
-🗓 **11–13 February 2026**  
-🔬 Focus: biotics, gut microbiota, clinical & industry applications  
-🔗 [Link](https://probiotaevent.com)
-
-
-### 🧬 Microbes in Microbiomes
-📍 Miami, USA  
-🗓 **18–20 February 2026**  
-🔬 Focus: microbe-centric view of microbiomes across human, animal, plant and environmental systems  
-🔗 [Link](https://microbiologysociety.org/event/society-events-and-meetings/microbes-in-microbiomes.html)
-
-
-## March 2026
+## March 2027
 
 ### 🧬 Microbiome Interactions in Health and Disease
 📍 London, UK  
@@ -71,6 +37,11 @@ This repository is intended for:
 🔬 Focus: host–microbiome interactions, health & disease, emerging tools  
 🔗 [Link](https://fems-microbiology.org/opportunities/microbiome-interactions-in-health-and-disease/)
 
+### 🧬 Immunomodulatory Microbiota in Health and Disease
+📍 Fairmont Banff Springs, Banff, AB, Canada
+🗓 **Mar 07–10, 2027**
+🔬 Focus: host–microbiome interactions, health & disease  
+🔗 [Link](https://www.keystonesymposia.org/conferences/conference-listing/meeting/L62027)
 
 ### 🧬 CMI International Microbiome Meeting (CIMM) 2026
 📍 La Jolla, California, USA  
@@ -100,7 +71,7 @@ This repository is intended for:
 🔗 [Link](https://microbiometolife.com/)
 
 
-## April 2026
+## April 2027
 
 ### 🧬 4th Global Soil Biodiversity Conference
 📍 Victoria, British Columbia, Canada  
@@ -158,7 +129,7 @@ This repository is intended for:
 🔗 [Link](https://global-engage.com/product/microbiome-asia/)
 
 
-## May 2026
+## May 2027
 
 ### 🧬 Beyond Antibiotics: Emerging Strategies for Combating Bacterial Infection (Keystone Symposia)
 📍 Breckenridge, CO, USA  
@@ -203,7 +174,7 @@ This repository is intended for:
 🔗 [Link](https://hsph.harvard.edu/research/microbiome/hcmph-symposium/)
 
 
-## June 2026
+## June 2027
 
 ### 🧬 IHMC 2026 (International Human Microbiome Consortium)
 📍 Seoul, South Korea  
@@ -254,7 +225,7 @@ This repository is intended for:
 🔗 [Link](https://probiotic-conference.net)
 
 
-## July 2026
+## July 2027
 
 ### 🧬 Viruses of Microbes 2026 (VoM 2026)
 📍 Prague, Czech Republic  
@@ -277,7 +248,7 @@ This repository is intended for:
 🔗 [Link](https://conferences.union.wisc.edu/microbes/)
 
 
-## August 2026
+## August 2027
 
 ### 🧬 ISME20 – International Symposium on Microbial Ecology
 📍 Auckland, New Zealand  
@@ -286,7 +257,7 @@ This repository is intended for:
 🔗 [Link](https://isme-microbes.org/isme-symposia/isme20/)
 
 
-## September 2026
+## September 2027
 
 ### 🧬 2026 Microbiome Keynotes Symposium
 📍 Nashville, TN, USA  
@@ -295,7 +266,7 @@ This repository is intended for:
 🔗 [Link](https://www.microbiomekeynotes.com/)
 
 
-## October 2026
+## October 2027
 
 ### 🧬 Skin Microbiome & Cosmeceuticals Congress: USA
 📍 San Diego, CA, USA  
@@ -333,7 +304,7 @@ This repository is intended for:
 🔗 [Link](https://symposia.smart.org.cn/sym/event/FutureEvents/20250908004.html)
 
 
-## November 2026
+## November 2027
 
 ### 🧬 Oral–Gut Conference 3 (Oral-Gut 2026)
 📍 Rio de Janeiro, Brazil  
@@ -377,7 +348,7 @@ This repository is intended for:
 🔗 [Link](https://biocityturku.fi/events/microbiome-meets-multiomics-symposium/)
 
 
-## December 2026
+## December 2027
 
 ### 🧬 9th International Conference on Microbiome Engineering
 📍 Raleigh–Durham, NC, USA  
